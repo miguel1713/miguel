@@ -1,9 +1,6 @@
 # miguel
 <html>
 <head>
-<title>
-miguel9c
-</title>
 <body>
 <p>
 MIGUEL VELASQUEZ
